@@ -1,0 +1,344 @@
+Using pre-set license
+Built from '2022.3/china_unity/release' branch; Version is '2022.3.62f2c1 (92e6e6be66dc) revision 9627366'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Enterprise' Language: 'en' Physical Memory: 64881 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.62f2\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Art Tech Lab/Real-Time-Black-Hole-main/workingFile/Blackhole_ArtTechLab/Black Hole Visualisation
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52187
+Successfully changed project path to: C:/Art Tech Lab/Real-Time-Black-Hole-main/workingFile/Blackhole_ArtTechLab/Black Hole Visualisation
+C:/Art Tech Lab/Real-Time-Black-Hole-main/workingFile/Blackhole_ArtTechLab/Black Hole Visualisation
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [50140]  Target information:
+
+Player connection [50140]  * "[IP] 10.14.0.2 [Port] 0 [Flags] 2 [Guid] 1537365677 [EditorId] 1537365677 [Version] 1048832 [Id] WindowsEditor(7,ALTab-ASUS2615A) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [50140]  * "[IP] 10.68.168.79 [Port] 0 [Flags] 2 [Guid] 1537365677 [EditorId] 1537365677 [Version] 1048832 [Id] WindowsEditor(7,ALTab-ASUS2615A) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [50140] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [50140] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+Refreshing native plugins compatible for Editor in 33.93 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 641.46 ms.
+Initialize engine version: 2022.3.62f2c1 (92e6e6be66dc)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.62f2/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Art Tech Lab/Real-Time-Black-Hole-main/workingFile/Blackhole_ArtTechLab/Black Hole Visualisation/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 5090 Laptop GPU (ID=0x2c58)
+    Vendor:   NVIDIA
+    VRAM:     24051 MB
+    Driver:   32.0.15.7680
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.62f2/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.62f2/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.62f2/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56740
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.62f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.560619 seconds.
+- Loaded All Assemblies, in 22.087 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.180 seconds
+Domain Reload Profiling: 22264ms
+	BeginReloadAssembly (20478ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (586ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (605ms)
+	LoadAllAssembliesAndSetupDomain (408ms)
+		LoadAssemblies (20477ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (405ms)
+			TypeCache.Refresh (404ms)
+				TypeCache.ScanAssembly (390ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (180ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (147ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (1ms)
+			ProcessInitializeOnLoadAttributes (95ms)
+			ProcessInitializeOnLoadMethodAttributes (36ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in 18.366 seconds
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  0.541 seconds
+Domain Reload Profiling: 18897ms
+	BeginReloadAssembly (1300ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (19ms)
+	RebuildCommonClasses (70ms)
+	RebuildNativeTypeToScriptingClass (6ms)
+	initialDomainReloadingComplete (47ms)
+	LoadAllAssembliesAndSetupDomain (16932ms)
+		LoadAssemblies (18036ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (149ms)
+			TypeCache.Refresh (124ms)
+				TypeCache.ScanAssembly (107ms)
+			ScanForSourceGeneratedMonoScriptInfo (16ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (541ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (444ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (69ms)
+			ProcessInitializeOnLoadAttributes (316ms)
+			ProcessInitializeOnLoadMethodAttributes (39ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 11.55 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.11 ms.
+Unloading 5516 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 30 unused Assets / (416.8 KB). Loaded Objects now: 5985.
+Memory consumption went from 222.5 MB to 222.1 MB.
+Total: 3.057000 ms (FindLiveObjects: 0.420500 ms CreateObjectMapping: 0.155100 ms MarkObjects: 2.321400 ms  DeleteObjects: 0.159100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1383656.286697 seconds.
+  path: Assets/Settings/URP-Balanced.asset
+  artifactKey: Guid(e1260c1148f6143b28bae5ace5e9c5d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/URP-Balanced.asset using Guid(e1260c1148f6143b28bae5ace5e9c5d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '027523ed6eeaef99a960282a611f6ff7') in 0.011321 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Prepare
+Switching render pipeline 7b7fd9122c28c4d15b667c7040e3b3fd -> 00000000000000000000000000000000
+Refreshing native plugins compatible for Editor in 18.26 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.11 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 671 unused Assets / (0.6 MB). Loaded Objects now: 5315.
+Memory consumption went from 101.8 MB to 101.2 MB.
+Total: 4.765100 ms (FindLiveObjects: 0.758400 ms CreateObjectMapping: 0.192600 ms MarkObjects: 2.697200 ms  DeleteObjects: 1.115800 ms)
+
+Prepare: number of updated asset objects reloaded= 144
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:srp/default-pipeline:  -> b7f79d21c2824c1db566c707043e3bdf
+========================================================================
+Received Import Request.
+  Time since last request: 210.098055 seconds.
+  path: Assets/Readme.asset
+  artifactKey: Guid(8105016687592461f977c054a80ce2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Readme.asset using Guid(8105016687592461f977c054a80ce2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'b0e002a7643440cbc9b04506fb68a96a') in 0.003125 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 19.491712 seconds.
+  path: Assets/Scenes/SampleScene
+  artifactKey: Guid(bdadd1396d4dc447c8b5de0bbc4179c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene using Guid(bdadd1396d4dc447c8b5de0bbc4179c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '5999d9faa1fd9167c4c11eb01dd22bc6') in 0.000538 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 14.46 ms, found 4 plugins.
+Preloading 1 native plugins for Editor in 0.14 ms.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5 unused Assets / (51.0 KB). Loaded Objects now: 5169.
+Memory consumption went from 84.8 MB to 84.8 MB.
+Total: 3.438700 ms (FindLiveObjects: 0.283900 ms CreateObjectMapping: 0.168100 ms MarkObjects: 2.901900 ms  DeleteObjects: 0.083400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 119.894043 seconds.
+  path: Assets/Settings/SampleSceneProfile.asset
+  artifactKey: Guid(a6560a915ef98420e9faacc1c7438823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/SampleSceneProfile.asset using Guid(a6560a915ef98420e9faacc1c7438823) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '78d15777bff4b8f17387a434220608b8') in 0.002596 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001097 seconds.
+  path: Assets/Settings/URP-Balanced-Renderer.asset
+  artifactKey: Guid(e634585d5c4544dd297acaee93dc2beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/URP-Balanced-Renderer.asset using Guid(e634585d5c4544dd297acaee93dc2beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+Exception: Cannot load. Incorrect path: Packages/com.unity.render-pipelines.universal/Textures/BlueNoise256/LDR_LLL1_0.png
+  at UnityEngine.Rendering.ResourceReloader.TryReloadAllNullIn (System.Object container, System.String basePath) [0x00052] in .\Library\PackageCache\com.unity.render-pipelines.core@14.0.12\Runtime\Utilities\ResourceReloader.cs:40 
+  at UnityEngine.Rendering.Universal.ScreenSpaceAmbientOcclusion.Create () [0x00000] in .\Library\PackageCache\com.unity.render-pipelines.universal@14.0.12\Runtime\RendererFeatures\ScreenSpaceAmbientOcclusion.cs:101 
+  at UnityEngine.Rendering.Universal.ScriptableRendererFeature.OnValidate () [0x00000] in .\Library\PackageCache\com.unity.render-pipelines.universal@14.0.12\Runtime\ScriptableRendererFeature.cs:53 
+
+(Filename: ./Library/PackageCache/com.unity.render-pipelines.core@14.0.12/Runtime/Utilities/ResourceReloader.cs Line: 40)
+
+Exception: Cannot load. Incorrect path: Packages/com.unity.render-pipelines.universal/Runtime/Data/XRSystemData.asset
+  at UnityEngine.Rendering.ResourceReloader.TryReloadAllNullIn (System.Object container, System.String basePath) [0x00052] in .\Library\PackageCache\com.unity.render-pipelines.core@14.0.12\Runtime\Utilities\ResourceReloader.cs:40 
+  at UnityEngine.Rendering.Universal.UniversalRendererData.ReloadAllNullProperties () [0x00000] in .\Library\PackageCache\com.unity.render-pipelines.universal@14.0.12\Runtime\UniversalRendererData.cs:337 
+  at UnityEngine.Rendering.Universal.UniversalRendererData.OnEnable () [0x0000f] in .\Library\PackageCache\com.unity.render-pipelines.universal@14.0.12\Runtime\UniversalRendererData.cs:331 
+
+(Filename: ./Library/PackageCache/com.unity.render-pipelines.core@14.0.12/Runtime/Utilities/ResourceReloader.cs Line: 40)
+
+Exception: Cannot load. Incorrect path: Packages/com.unity.render-pipelines.universal/Textures/BlueNoise256/LDR_LLL1_0.png
+  at UnityEngine.Rendering.ResourceReloader.TryReloadAllNullIn (System.Object container, System.String basePath) [0x00052] in .\Library\PackageCache\com.unity.render-pipelines.core@14.0.12\Runtime\Utilities\ResourceReloader.cs:40 
+  at UnityEngine.Rendering.Universal.ScreenSpaceAmbientOcclusion.Create () [0x00000] in .\Library\PackageCache\com.unity.render-pipelines.universal@14.0.12\Runtime\RendererFeatures\ScreenSpaceAmbientOcclusion.cs:101 
+  at UnityEngine.Rendering.Universal.ScriptableRendererFeature.OnEnable () [0x00000] in .\Library\PackageCache\com.unity.render-pipelines.universal@14.0.12\Runtime\ScriptableRendererFeature.cs:48 
+
+(Filename: ./Library/PackageCache/com.unity.render-pipelines.core@14.0.12/Runtime/Utilities/ResourceReloader.cs Line: 40)
+
+ -> (artifact id: '34ec8d5fad3c56115f3720b451d5fe92') in 0.004559 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Settings/URP-Performant-Renderer.asset
+  artifactKey: Guid(707360a9c581a4bd7aa53bfeb1429f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/URP-Performant-Renderer.asset using Guid(707360a9c581a4bd7aa53bfeb1429f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+Exception: Cannot load. Incorrect path: Packages/com.unity.render-pipelines.universal/Runtime/Data/XRSystemData.asset
+  at UnityEngine.Rendering.ResourceReloader.TryReloadAllNullIn (System.Object container, System.String basePath) [0x00052] in .\Library\PackageCache\com.unity.render-pipelines.core@14.0.12\Runtime\Utilities\ResourceReloader.cs:40 
+  at UnityEngine.Rendering.Universal.UniversalRendererData.ReloadAllNullProperties () [0x00000] in .\Library\PackageCache\com.unity.render-pipelines.universal@14.0.12\Runtime\UniversalRendererData.cs:337 
+  at UnityEngine.Rendering.Universal.UniversalRendererData.OnEnable () [0x0000f] in .\Library\PackageCache\com.unity.render-pipelines.universal@14.0.12\Runtime\UniversalRendererData.cs:331 
+
+(Filename: ./Library/PackageCache/com.unity.render-pipelines.core@14.0.12/Runtime/Utilities/ResourceReloader.cs Line: 40)
+
+ -> (artifact id: '437ebfaf6a5c089640d4864f5caa0568') in 0.001875 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1.110148 seconds.
+  path: Assets/Textures/Debug_texture.tiff
+  artifactKey: Guid(bd71fb1a886c94066b87f7adf2d41fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Debug_texture.tiff using Guid(bd71fb1a886c94066b87f7adf2d41fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '1515083c79ecafaf78fdfe04ed40b0ba') in 0.032427 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Textures/Milky_Way_b_16k_DWAA_half.exr
+  artifactKey: Guid(2a5e54c14313948e887ebeaf15b745c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Milky_Way_b_16k_DWAA_half.exr using Guid(2a5e54c14313948e887ebeaf15b745c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'f01b35c01344620f38766e33159feb72') in 0.087773 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
